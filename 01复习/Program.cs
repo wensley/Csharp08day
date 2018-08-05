@@ -17,7 +17,6 @@ namespace _01复习
             //练习4
             int[] n = { 1, 2, 3, 4, 5, 6 };
             int result = Sum(n);
-
             Console.WriteLine(result);
             Console.ReadLine();
 
